@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.71725f40.css",
-    "main.js": "/static/js/main.13181270.js",
-    "static/js/787.6fdecceb.chunk.js": "/static/js/787.6fdecceb.chunk.js",
+    "main.css": "/hakton/static/css/main.71725f40.css",
+    "main.js": "/hakton/static/js/main.13181270.js",
+    "static/js/787.6fdecceb.chunk.js": "/hakton/static/js/787.6fdecceb.chunk.js",
     "index.html": "/index.html",
-    "main.71725f40.css.map": "/static/css/main.71725f40.css.map",
-    "main.13181270.js.map": "/static/js/main.13181270.js.map",
-    "787.6fdecceb.chunk.js.map": "/static/js/787.6fdecceb.chunk.js.map"
+    "main.71725f40.css.map": "/hakton/static/css/main.71725f40.css.map",
+    "main.13181270.js.map": "/hakton/static/js/main.13181270.js.map",
+    "787.6fdecceb.chunk.js.map": "/hakton/static/js/787.6fdecceb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71725f40.css",
-    "static/js/main.13181270.js"
+    "hakton/static/css/main.71725f40.css",
+    "hakton/static/js/main.13181270.js"
   ]
 }
